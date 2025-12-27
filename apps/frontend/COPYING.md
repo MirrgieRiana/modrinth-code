@@ -15,7 +15,7 @@ This includes, but may not be limited to, the following files:
 - src/components/brand/\*
 - src/public/favicon.ico
 - src/public/favicon-light.ico
-- src/public/news/*
+- src/public/news/\*
 
 ## External logos
 
